@@ -1,0 +1,18 @@
+# Ignore build output
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+*.cache
+*.log
+*.vs/
+# Rider project files
+.idea/
+# VS Code settings
+.vscode/
+# OS generated files
+.DS_Store
+Thumbs.db
